@@ -1,6 +1,6 @@
 ---
 title: "Claude Codeでブログを立ち上げてみた"
-date: 2025-11-29
+date: 2025-11-28T18:31:25Z
 draft: false
 ---
 
