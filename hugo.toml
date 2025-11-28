@@ -2,6 +2,7 @@ baseURL = "https://sijiaoh.com/"
 defaultContentLanguage = "ja"
 title = "sijiaoh.com"
 theme = "PaperMod"
+mainSections = ["posts"]
 
 [languages]
   [languages.ja]
