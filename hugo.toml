@@ -3,6 +3,7 @@ defaultContentLanguage = "ja"
 title = "sijiaoh.com"
 theme = "PaperMod"
 mainSections = ["posts"]
+googleAnalytics = "G-7EY6L93R0N"
 
 [languages]
   [languages.ja]
