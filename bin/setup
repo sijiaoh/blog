@@ -1,0 +1,19 @@
+#!/bin/bash -eu
+
+install_hugo() {
+  if command -v hugo &> /dev/null; then
+    echo "Hugo is already installed: $(hugo version)"
+    return 0
+  fi
+
+  case "$(uname -s)" in
+    Darwin) brew install hugo ;;
+    Linux)  sudo snap install hugo ;;
+    *)
+      echo "Error: Unsupported OS"
+      exit 1
+      ;;
+  esac
+}
+
+install_hugo

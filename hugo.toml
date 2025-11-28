@@ -1,0 +1,38 @@
+baseURL = "https://sijiaoh.com/"
+defaultContentLanguage = "ja"
+title = "sijiaoh.com"
+theme = "PaperMod"
+
+[languages]
+  [languages.ja]
+    languageCode = "ja"
+    languageName = "日本語"
+    weight = 1
+  [languages.zh]
+    languageCode = "zh"
+    languageName = "中文"
+    weight = 2
+  [languages.en]
+    languageCode = "en"
+    languageName = "English"
+    weight = 3
+
+[params]
+  defaultTheme = "auto"
+
+  [params.homeInfoParams]
+    Title = "sijiaoh"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/sijiaoh"
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/sijiaoh"
+
+[markup]
+  [markup.highlight]
+    style = "monokai"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
