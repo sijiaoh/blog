@@ -30,6 +30,7 @@ draft: false
 2. 通过对话逐步修改内容
 3. 有时候自己直接编辑
 4. 最后和Claude Code一起润色
+5. 让Claude Code翻译，然后确认
 
 ## 总结
 

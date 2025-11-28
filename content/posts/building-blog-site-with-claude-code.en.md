@@ -30,6 +30,7 @@ Here's how I'm thinking about it:
 2. Iteratively modify content through dialogue
 3. Sometimes edit directly myself
 4. Polish together with Claude Code at the end
+5. Have Claude Code translate, then review
 
 ## Conclusion
 
