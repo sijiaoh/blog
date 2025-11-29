@@ -1,7 +1,7 @@
 ---
 title: "Thoughts on the 'Skateboard to Car' Diagram"
 date: 2025-11-29T11:50:23+09:00
-draft: true
+draft: false
 ---
 
 In the context of Agile development and Lean Startup, many people have probably seen this diagram.
