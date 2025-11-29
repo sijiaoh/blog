@@ -31,6 +31,13 @@ googleAnalytics = "G-7EY6L93R0N"
 [params]
   defaultTheme = "auto"
 
+  [params.assets]
+    favicon = "favicon.ico"
+    favicon16x16 = "favicon.ico"
+    favicon32x32 = "favicon.ico"
+    apple_touch_icon = "apple-touch-icon.png"
+    safari_pinned_tab = "favicon.svg"
+
   [[params.socialIcons]]
     name = "x"
     url = "https://x.com/sijiaoh"
