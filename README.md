@@ -20,6 +20,7 @@
 /blog-review      # 構成・読みやすさをレビュー
 /blog-style-check # 文体の統一をチェック
 /blog-term-check  # 用語の一貫性をチェック
+/image-check      # 画像サイズをチェック・リサイズ
 ```
 
 ### 3. 翻訳

@@ -14,6 +14,12 @@
 - テーマ変更時の移行コストを最小限に抑える
 - 記事作成は `hugo new posts/{slug}.ja.md` を使用する
 
+## 画像
+- 配置: `static/images/{記事slug}/`
+- 参照: `![alt](/images/{記事slug}/filename.png)`
+- 解像度: 幅1600px以下
+- ファイルサイズ: 500KB以下
+
 ## 文体
 - です・ます調
 - 簡潔に、技術ブログらしく
